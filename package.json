@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "npm-api": "^1.0.1"
+    }
+}
